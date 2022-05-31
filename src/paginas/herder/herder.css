@@ -1,0 +1,23 @@
+.container{
+    background-color: #5ca0ec;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 65px;
+    padding: 0 7%;
+}
+
+.container ul{
+    list-style: none;
+    display: flex;
+}
+
+.container ul li{
+    padding:  0 20px;
+}
+
+.container ul li a {
+    text-decoration: none;
+    color: #fff;
+}
